@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\bin\Debug\net6.0\HotelBooking.DataAccessLayer.deps.json
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\bin\Debug\net6.0\HotelBooking.DataAccessLayer.dll
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\bin\Debug\net6.0\HotelBooking.DataAccessLayer.pdb
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\obj\Debug\net6.0\HotelBooking.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\obj\Debug\net6.0\HotelBooking.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\obj\Debug\net6.0\HotelBooking.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\obj\Debug\net6.0\HotelBooking.DataAccessLayer.AssemblyInfo.cs
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\obj\Debug\net6.0\HotelBooking.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\obj\Debug\net6.0\HotelBooking.DataAccessLayer.dll
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\obj\Debug\net6.0\refint\HotelBooking.DataAccessLayer.dll
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\obj\Debug\net6.0\HotelBooking.DataAccessLayer.pdb
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\obj\Debug\net6.0\ref\HotelBooking.DataAccessLayer.dll
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\bin\Debug\net6.0\HotelBooking.DataAccessLayer.runtimeconfig.json
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\obj\Debug\net6.0\HotelBooking.DataAccessLayer.genruntimeconfig.cache
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\bin\Debug\net6.0\HotelBooking.Domain.dll
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\bin\Debug\net6.0\HotelBooking.Domain.pdb
+C:\Users\hp\Desktop\StudyRepo\HotelsBooking\HotelBooking.DataAccessLayer\obj\Debug\net6.0\HotelBooking.DataAccessLayer.csproj.CopyComplete
